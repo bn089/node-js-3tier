@@ -9,7 +9,7 @@ RUN npm install
 COPY . . 
 
 ENV 	PORT=3000 \
-	API_HOST=http://54.166.143.205:3001
+        API_HOST=http://13.219.98.76:30001
 
 EXPOSE 3000
 

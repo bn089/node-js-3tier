@@ -11,8 +11,8 @@ COPY . .
 ENV 	PORT=3001 \
 	DB=hello \
 	DBUSER=admin \
-	DBPASS=kaizen123 \
-	DBHOST=database-1-instance-1.c4b82e0eyi7z.us-east-1.rds.amazonaws.com \
+	DBPASS=kaizen123! \
+	DBHOST=database-2-instance-1.c4b82e0eyi7z.us-east-1.rds.amazonaws.com \
 	DBPORT=3306
 
 EXPOSE 3001
